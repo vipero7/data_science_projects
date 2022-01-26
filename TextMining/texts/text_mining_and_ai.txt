@@ -1,0 +1,17 @@
+Text Mining and Artificial Intelligence:
+Artificial Intelligence or AI is the ability of a machine to mimic the problem solving and decision
+making capabilities of the human brain. Integrating AI in the text mining or text analytics can
+lead to the development of broad applications such as competitive intelligence, human resource
+management and market analysis. AI consists of different elements such as Machine learning
+and Natural language processing. Both Natural language processing and Machine learning
+plays an important role in enhancing AI systems. WIthout Natural language processing, AI can
+only understand the meaning of language and answer simple questions, but it won’t be able to
+know the actual meaning of the words. Thus Natural language processing in AI allows users to
+communicate with a computer in natural language. Similarly without machine learning, AI can
+only perform the defined tasks i.e. it can not perform non deterministic problems on it’s own.
+AI with both Natural language processing (NLP) and Machine learning (ML) is used in text
+mining thus helping us to find the valuable insights from large amounts of data. AI provides a
+large set of real-world applications such as speech recognition, customer service, computer
+vision, recommendation engine and many more. Thus having a large set of functionality, AI in
+text mining is one of the most important aspects as it binds together useful methods such as
+Natural language processing and Machine learning.

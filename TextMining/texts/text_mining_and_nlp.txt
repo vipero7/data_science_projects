@@ -1,0 +1,19 @@
+Text Mining and Natural Language Processing:
+Natural language processing or NLP helps machines to process and read text or speech by
+simulating the human ability to understand natural language such as english. NLP is a part of
+artificial intelligence (AI) and is concerned with giving computers the ability to understand
+natural languages in the same way as human beings do.
+NLP is used to understand the concepts within documents and helps to decipher ambiguities of
+language to extract key facts and relationships and provides summaries. Text mining uses theapplications of NLP to derive the high quality of information from the text. Basically text mining is
+the overall process of deriving useful information from the unstructured data and NLP is one of
+the methods to do so. NLP combines computational linguistics i.e. rule based modeling of
+human language with statistical, machine learning and deep learning models thus enabling
+computers to process human language in the form of text or voice data to understand its full
+meaning and complete the writer's intent and sentiment.
+With the vast amount of data it is impossible for us to read all of the information ourselves and
+identify what’s most important and it might take us forever to analyse ambiguous data. However
+text mining with the help of NLP does all the process with accuracy and at high speed. NLP may
+be part of text mining and artificial intelligence but it is not less in case of the applications. NLP
+provides large use cases such as sentimental analysis, chatbot, speech recognition and
+machine translation and hence making it one of the most important methods of this overall
+information retrieval process.

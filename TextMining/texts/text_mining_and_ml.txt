@@ -1,0 +1,19 @@
+Text Mining and Machine Learning:
+Machine learning or ML is a part of artificial intelligence (AI), that provides systems with the
+ability to automatically learn from the experience without the need of explicit programming. ML
+can help computers to solve complex non deterministic problems with speed and accuracy. ML
+is also a part of artificial intelligence (AI) and is one of the most important parts of NLP and text
+mining.
+Machine learning for NLP and text mining involves using machine learning algorithms and
+artificial intelligence to understand the meaning of text documents. The documents may be
+anything that contains text, social media queries, online reviews, survey responses and even
+financial, medical legal documents. ML in natural language processing and text analytics helps
+to improve, accelerate and automate the underlying text analytics functions and NLP features
+that convert the unstructured text into usable data and outcomes.
+Machine learning in NLP and text analytics involves a set of statistical techniques that identifies
+parts of speech, entities, sentiment and other parts of the text. The techniques can be
+expressed as a model which is then applied to other texts i.e. also known as supervised
+machine learning. Supervised learning algorithms such as Support vector machines, Bayesian
+networks are used to build and improve core text analytics functions and NLP features. Another
+learning method i.e. unsupervised machine learning algorithms are used in case of large sets ofdata. Unsupervised learning methods such as clustering are extremely useful for extracting the
+NLP feature from large data sets.
